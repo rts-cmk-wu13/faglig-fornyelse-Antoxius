@@ -1,0 +1,296 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 99.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800",
+        "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800",
+        "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=800"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 249.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
+        "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=800",
+        "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800",
+        "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Laptop Stand",
+      "price": 49.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400"
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "price": 79.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400"
+    },
+    {
+      "id": 5,
+      "name": "USB-C Cable",
+      "price": 19.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1591290619762-5b4f8b5e5e5a?w=400"
+    },
+    {
+      "id": 6,
+      "name": "Wireless Mouse",
+      "price": 39.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400"
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Keyboard",
+      "price": 129.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400"
+    },
+    {
+      "id": 8,
+      "name": "Webcam HD",
+      "price": 89.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1585968535781-c59d9f1413a7?w=400"
+    },
+    {
+      "id": 9,
+      "name": "Cotton T-Shirt",
+      "price": 29.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    },
+    {
+      "id": 10,
+      "name": "Denim Jeans",
+      "price": 79.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400"
+    },
+    {
+      "id": 11,
+      "name": "Leather Jacket",
+      "price": 199.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400"
+    },
+    {
+      "id": 12,
+      "name": "Sneakers",
+      "price": 89.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+    },
+    {
+      "id": 13,
+      "name": "Summer Dress",
+      "price": 59.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1572804013427-4d7ca7268217?w=400"
+    },
+    {
+      "id": 14,
+      "name": "Winter Coat",
+      "price": 149.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=400"
+    },
+    {
+      "id": 15,
+      "name": "Baseball Cap",
+      "price": 24.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=400"
+    },
+    {
+      "id": 16,
+      "name": "Sunglasses",
+      "price": 79.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400"
+    },
+    {
+      "id": 17,
+      "name": "Throw Pillow",
+      "price": 34.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=400"
+    },
+    {
+      "id": 18,
+      "name": "Coffee Table",
+      "price": 299.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1565191999001-551c187427bb?w=400"
+    },
+    {
+      "id": 19,
+      "name": "Table Lamp",
+      "price": 49.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400"
+    },
+    {
+      "id": 20,
+      "name": "Wall Art",
+      "price": 89.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=400"
+    },
+    {
+      "id": 21,
+      "name": "Area Rug",
+      "price": 199.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=400"
+    },
+    {
+      "id": 22,
+      "name": "Curtains Set",
+      "price": 69.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1616047006789-b7af5afb8c20?w=400"
+    },
+    {
+      "id": 23,
+      "name": "Desk Organizer",
+      "price": 29.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=400"
+    },
+    {
+      "id": 24,
+      "name": "Plant Pot",
+      "price": 24.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=400"
+    },
+    {
+      "id": 25,
+      "name": "Cookbook Collection",
+      "price": 39.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400"
+    },
+    {
+      "id": 26,
+      "name": "Kitchen Knife Set",
+      "price": 129.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=400"
+    },
+    {
+      "id": 27,
+      "name": "Bedding Set",
+      "price": 149.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400"
+    },
+    {
+      "id": 28,
+      "name": "Mirror Round",
+      "price": 79.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=400"
+    },
+    {
+      "id": 29,
+      "name": "Phone Case",
+      "price": 19.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400"
+    },
+    {
+      "id": 30,
+      "name": "Power Bank",
+      "price": 49.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1609592385213-9e854d7f5993?w=400"
+    },
+    {
+      "id": 31,
+      "name": "Backpack",
+      "price": 69.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400"
+    },
+    {
+      "id": 32,
+      "name": "Wallet Leather",
+      "price": 49.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400"
+    },
+    {
+      "id": 33,
+      "name": "Wrist Watch",
+      "price": 299.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=400"
+    },
+    {
+      "id": 34,
+      "name": "Running Shoes",
+      "price": 119.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=400"
+    },
+    {
+      "id": 35,
+      "name": "Yoga Mat",
+      "price": 39.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400"
+    },
+    {
+      "id": 36,
+      "name": "Water Bottle",
+      "price": 24.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400"
+    },
+    {
+      "id": 37,
+      "name": "Tablet Stand",
+      "price": 29.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400"
+    },
+    {
+      "id": 38,
+      "name": "Screen Protector",
+      "price": 14.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=400"
+    },
+    {
+      "id": 39,
+      "name": "Scarf",
+      "price": 34.99,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=400"
+    },
+    {
+      "id": 40,
+      "name": "Candle Set",
+      "price": 44.99,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1602874801006-95415c52c0e7?w=400"
+    }
+  ]
+}
